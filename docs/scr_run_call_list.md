@@ -1,4 +1,4 @@
-##list of commands
+## list of commands
 ****
 
 - check_node
@@ -31,7 +31,7 @@
 - transfer
 - watchdog
 
-##list of launchers
+## list of launchers
 ****
 
 - srun
